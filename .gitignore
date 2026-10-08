@@ -1,0 +1,17 @@
+# Generated test report and local subtitle files
+/demo-report.json
+*.srt
+*.ass
+*.vtt
+
+# Local secrets and tooling
+.env
+.env.*
+*.key
+*.pem
+node_modules/
+.vscode/
+.idea/
+*.log
+Thumbs.db
+.DS_Store
